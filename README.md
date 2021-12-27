@@ -1,2 +1,2 @@
-# ejerciciogit
-ejercicio de Git para las clases de Git y Git Hub
+# hyperblog
+Un blog increíble para el curso de Git y Github de Platzi
